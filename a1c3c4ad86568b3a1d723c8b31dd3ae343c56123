@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dfe7b868_93fe259a",
+        "filename": "sepolicy.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2018-10-23T11:23:53Z",
+      "side": 1,
+      "message": "aicp",
+      "range": {
+        "startLine": 25,
+        "startChar": 16,
+        "endLine": 25,
+        "endChar": 21
+      },
+      "revId": "a1c3c4ad86568b3a1d723c8b31dd3ae343c56123",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b",
+      "unresolved": false
+    }
+  ]
+}
